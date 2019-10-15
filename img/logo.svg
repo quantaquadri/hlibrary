@@ -1,1 +1,11 @@
-<?xml version="1.0" standalone="no"?><!-- Generator: Gravit.io --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 1024 1024" width="1024" height="1024"><defs><clipPath id="_clipPath_6tO1ccVliqZnu9zwMFcCxMKVeuCStDnI"><rect width="1024" height="1024"/></clipPath></defs><g clip-path="url(#_clipPath_6tO1ccVliqZnu9zwMFcCxMKVeuCStDnI)"><path d="M 150 0 L 874 0 L 1024 150 L 1024 874 L 874 1024 L 150 1024 L 0 874 L 0 150 L 150 0 Z" style="stroke:none;fill:#95FFB1;stroke-miterlimit:10;"/><path d=" M 229 655.5 C 259 676.5 297.5 689 346.5 689 C 436.5 689 480 643 480 582 C 480 508 410 491.5 355 479 C 316.5 470 288.5 463 288.5 440.5 C 288.5 420.5 305.5 406.5 342.5 406.5 C 366 406.5 392 413.5 418 428 C 422.5 431 428.5 433 435 433 C 452.5 433 467.5 418 467.5 400 C 467.5 388 460.5 377 451 372 C 419 353.5 385.5 344.5 347.5 344.5 C 264 344.5 216 389.5 216 445 C 216 519.5 286 534.5 340.5 547 C 379 556 408 564.5 408 589.5 C 408 608.5 389 627 350 627 C 316.5 627 289 616.5 266 600.5 C 260.5 596.5 254 594.5 247 594.5 C 229 594.5 214 609.5 214 628 C 214 639.5 220 649.5 229 655.5 Z  M 565.5 683 L 709 683 C 772.5 683 806 643 806 593 C 806 551 777.5 516.5 742 511 C 773.5 504.5 799.5 476.5 799.5 434.5 C 799.5 390 767 349.5 703.5 349.5 L 565.5 349.5 C 541.5 349.5 528 363 528 387 L 528 645 C 528 669.5 541.5 683 565.5 683 Z  M 599 483.5 L 599 410 L 688 410 C 712 410 727 426 727 446.5 C 727 468 712 483.5 688 483.5 L 599 483.5 Z  M 599 622.5 L 599 544 L 690.5 544 C 718.5 544 733.5 562 733.5 583 C 733.5 607 717.5 622.5 690.5 622.5 L 599 622.5 Z " fill-rule="evenodd" fill="rgb(34,46,37)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="421" height="421" viewBox="0 0 421 421">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1599" data-name="Rectangle 1599" width="421" height="421"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-path)">
+    <path id="Path_1137" data-name="Path 1137" d="M61.67,0H359.33L421,61.67V359.33L359.33,421H61.67L0,359.33V61.67Z" fill="#95ffb1"/>
+    <text id="hr" transform="translate(53 85)" font-size="200" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="61.7" y="200">hr</tspan></text>
+  </g>
+</svg>
