@@ -110,13 +110,7 @@
     
                             <li class="nav-item">
     
-                                <a class="nav-link" href="index.html">Discover</a>
-    
-                            </li>
-    
-                            <li class="nav-item">
-    
-                                <a class="nav-link" href="#">Categories</a>
+                                <a class="nav-link" href="categories.html">Categories</a>
     
                             </li>
     
@@ -171,13 +165,13 @@
             
                     
                     
-                    <a class="btn btn-primary mr-2 d-sm-flex flex-sm-row align-sm-items-center d-none" onclick="$('#loginModal').modal('toggle');return false;" href="login.html">
+                    <a class="btn btn-primary mr-2 d-sm-flex flex-sm-row align-sm-items-center d-none" onclick="$('#loginModal').modal('toggle');return false;" href="#">
                     
                         <em class="mr-2" data-feather="plus" height="20" width="20"></em> SignUp
                     
                     </a>
                     
-                    <a class="btn btn-light d-flex flex-row align-items-center" onclick="$('#loginModal').modal('toggle');return false;" href="login.html">
+                    <a class="btn btn-light d-flex flex-row align-items-center" onclick="$('#loginModal').modal('toggle');return false;" href="#">
                     
                         <em class="mr-2" data-feather="user" height="20" width="20"></em> Log In
                     
@@ -212,7 +206,7 @@
                     discover everything about HR practices in Africa.
                 </p>
     
-                <a class="btn btn-primary btn-lg mt-3" onclick="$('#loginModal').modal('toggle');return false;" href="#">Join Community</a>
+                <!-- <a class="btn btn-primary btn-lg mt-3" onclick="$('#loginModal').modal('toggle');return false;" href="#">Join Community</a> -->
     
             </div>
     
@@ -238,7 +232,7 @@
             
             <div class="col-md-4">
 
-                <a href="#" class="tile">
+                <a href="categories.html" class="tile">
 
                     <div class="tile__image"></div>
 
@@ -702,60 +696,7 @@
 
 
 
-    <div aria-hidden="false" class="modal" data-backdrop="static" data-keyboard="false" id="loginModal" role="dialog" tabindex="-1">
-        <div class="modal-dialog modal-dialog-centered" role="document">
-            <div class="modal-content">
-                <div class="modal-body text-center">
-                    <button aria-label="Close" class="close" data-dismiss="modal" type="button">
-                        <span data-feather="x"></span>
-                    </button>
-                    <div class="p-4">
-                        <h4>Log in to StartupBase</h4>
-                        <p class="lead">StartupBase is a community of makers and early adopters to share & discuss the
-                            latest products and ideas.</p>
-                        <div class="my-3 px-m px-md-5">
-                            <a class="btn btn-twitter d-flex flex-row align-items-center justify-content-center" href="https://startupbase.io/login/twitter?origin=/">
-                                <em class="mr-2" data-feather="twitter" height="18" width="18"></em> Log in with Twitter
-                            </a>
-<!--                            <a th:href="@{/login/facebook(origin=${#httpServletRequest.getRequestURI()})}"-->
-<!--                               class="btn btn-facebook d-flex flex-row align-items-center justify-content-center my-3">-->
-<!--                                <em data-feather="facebook" width="18" height="18" class="mr-2"></em> Log in with-->
-<!--                                Facebook-->
-<!--                            </a>-->
-<!--                            <a th:href="@{/login/linkedin(origin=${#httpServletRequest.getRequestURI()})}"-->
-<!--                               class="btn btn-linkedin d-flex flex-row align-items-center justify-content-center">-->
-<!--                                <em data-feather="linkedin" width="18" height="18" class="mr-2"></em> Log in with-->
-<!--                                LinkedIn-->
-<!--                            </a>-->
-                        </div>
-                        <small class="text-muted">We won't post without your permission.</small>
-                        <p class="text-muted small pt-1">By clicking the log in button above, you agree to our
-                            <a href="terms.html">Terms of Use</a>
-                            and
-                            <a href="privacy.html">Privacy Policy</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-</div>
-
     
-    
-
-    
-    <div id="fb-root"></div>
-    <script>(function (d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id))
-            return;
-        js = d.createElement(s);
-        js.id = id;
-        js.src = "../connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.9&appId=262938574181652";
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-
-
 
 </body>
 
