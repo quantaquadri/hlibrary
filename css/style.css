@@ -107,3 +107,12 @@
 }
 
 
+
+.author{
+    font-size: 12px;
+    color: #000;
+}
+
+.avatar{
+    border-radius: 15px;
+}
